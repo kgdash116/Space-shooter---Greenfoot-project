@@ -1,4 +1,4 @@
-# Team Project (fa22-202 Three Musketeers and Journal)
+# Back to the Future themed space shooter game made on the Greenfoot environment
 ------------------
 ## Table of Contents
 - [Team Project (fa22-202 Three Musketeers and Journal)](#team-project-fa22-202-three-musketeers-and-journal)
